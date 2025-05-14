@@ -63,7 +63,7 @@ export default function Home() {
       
       <Section 
         title="Beneficios a largo plazo"
-        image="../assets/images/benefits.jpg"
+        image="../src/assets/longterm.png"
         imagePosition="right"
       >
         <ul>
