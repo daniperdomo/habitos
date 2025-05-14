@@ -17,7 +17,7 @@ export default function Home() {
       
       <Section 
         title="Importancia de los hábitos de estudio"
-        image="../src/assets/reading.jpg"
+        image="/images/reading.jpg"
         imagePosition="right"
       >
         <p>Los hábitos de estudio influyen directamente en el rendimiento académico, la autoestima y el bienestar emocional de los estudiantes. Un enfoque adecuado en el estudio no solo mejora las calificaciones, sino que también fomenta una actitud positiva hacia el aprendizaje.</p>
@@ -35,7 +35,7 @@ export default function Home() {
       
       <Section 
         title="Problemas comunes"
-        image= "../src/assets/problem.jpg"
+        image= "/images/problem.jpg"
         imagePosition="left"
         darkBg
       >
@@ -72,7 +72,7 @@ export default function Home() {
 
       <Section 
         title="Fundamentos teóricos"
-        image="../src/assets/fundamento.jpg"
+        image="/images/fundamento.jpg"
         imagePosition="left"
         darkBg
       >
@@ -87,7 +87,7 @@ export default function Home() {
       
       <Section 
         title="Beneficios esperados"
-        image="../src/assets/longterm.png"
+        image="/images/longterm.png"
         imagePosition="right"
       >
         <ul>
